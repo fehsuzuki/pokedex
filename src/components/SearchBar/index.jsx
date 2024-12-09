@@ -6,7 +6,7 @@ export default function SearchBar({ pokemonFilter, hideSearch }) {
 
   return (
     <div className={styles.searchBar}>
-      <img src="../../public/logo.svg" alt="" onClick={() => navigate('/')} />
+      <div id={styles.logo} onClick={() => navigate('/pokedex')}>Pokedéx</div>
       {/* Se a props hideSearch for undefined então mostrar o form */}
       {!hideSearch && (
         <form action="/action_page.php">

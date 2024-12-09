@@ -13,6 +13,14 @@
   cursor: pointer;
 }
 
+#logo {
+  color: #fff;
+  font-family: 'Press Start 2P';
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
 .searchBar input[type='text'] {
   padding: 10px;
   font-family: 'Press Start 2P';
