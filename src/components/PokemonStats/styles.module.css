@@ -1,0 +1,40 @@
+.pokemonStats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 15px;
+  font-size: 14px;
+  background-color: rgb(165, 165, 165);
+  border-radius: 5px;
+}
+
+#pokemonStatsTitle {
+  margin-bottom: 10px;
+}
+
+.itemStatus {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 0px;
+}
+
+.statName {
+  width: 120px;
+}
+
+.statValue {
+  width: 30px;
+  text-align: end;
+}
+
+.itemStatus progress {
+  width: 175px;
+}
+
+@media only screen and (max-width: 375px) {
+  .statName {
+    width: 75px;
+  }
+}

@@ -1,0 +1,10 @@
+.subHeader {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.subHeader h1,
+h2 {
+  font-size: 20px;
+}

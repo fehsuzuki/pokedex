@@ -1,0 +1,50 @@
+.searchBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+  height: 80px;
+  background-color: red;
+  border-radius: 0 0 15px 15px;
+}
+
+.searchBar img {
+  width: 60px;
+  cursor: pointer;
+}
+
+.searchBar input[type='text'] {
+  padding: 10px;
+  font-family: 'Press Start 2P';
+  font-size: 13px;
+  border: none;
+  border-radius: 5px 0 0 5px;
+  height: 35px;
+  width: 200px;
+}
+
+.searchBar i {
+  padding: 10px;
+  background: #fff;
+  height: 35px;
+  font-size: 16px;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .searchBar {
+    padding: 0 50px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .searchBar {
+    padding: 0 25px;
+  }
+
+  .searchBar input[type='text'] {
+    width: 150px;
+  }
+}

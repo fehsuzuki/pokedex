@@ -1,0 +1,46 @@
+.pokemonSpecs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+  background-color: #1b81f6;
+  border-radius: 5px;
+  padding: 15px;
+  max-height: 206px;
+}
+
+.pokemonSpecs p:nth-child(2n-1) {
+  color: #fff;
+}
+
+.pokemonSpecs p:nth-child(2n) {
+  margin-bottom: 10px;
+}
+
+.abilityInfo {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  position: relative;
+}
+
+.abilityInfo button {
+  width: 20px;
+  height: 20px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #1b81f6;
+}
+
+.abilityDescription {
+  position: absolute;
+  top: 30px;
+  background: rgba(0, 0, 0, 0.801);
+  color: #fff;
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+  max-width: 200px;
+}

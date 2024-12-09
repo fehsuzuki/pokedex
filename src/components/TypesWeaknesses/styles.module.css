@@ -1,0 +1,15 @@
+.pokemonTypes {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.pokemonTypes button {
+  font-size: 14px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  margin: 0 10px 10px 0;
+}

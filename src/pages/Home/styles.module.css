@@ -1,0 +1,27 @@
+.pokemonList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 25px 125px;
+}
+
+.paginationControls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.paginationControls button {
+  padding: 10px 20px;
+  background-color: #1b81f6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.paginationControls button:hover {
+  background-color: #005bb5;
+}
