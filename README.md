@@ -27,6 +27,7 @@
 <h2 id="technologies">💻 Technologies</h2>
 
 - React
+- Vite
 
 <h2 id="started">🚀 Getting started</h2>
 
