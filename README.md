@@ -44,11 +44,9 @@ git clone https://github.com/fehsuzuki/pokenavigator.git
 
 <h3>Starting</h3>
 
-How to start your project
-
 ```bash
-cd project-name
-npm some-command-to-run
+cd pokenavigator
+npm install & npm run dev
 ```
 
 <h2 id="contribute">📫 Contribute</h2>
