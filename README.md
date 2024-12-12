@@ -33,8 +33,8 @@
 
 <h3>Prerequisites</h3>
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [NodeJS](https://nodejs.org/en/download/package-manager)
+- [Git](https://git-scm.com/downloads)
 
 <h3>Cloning</h3>
 
