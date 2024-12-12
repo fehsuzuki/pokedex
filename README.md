@@ -9,6 +9,7 @@
 
 <p align="center">
     <b>Web application that lists all Pokémon and provides specific details about each one.</b>
+    <b>The project was created with the aim of allowing Pokémon fans to quickly and conveniently access information about their favorite Pokémon.</b>
 </p>
 
 <p align="center">
