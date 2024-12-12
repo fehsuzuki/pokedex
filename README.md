@@ -31,21 +31,15 @@
 
 <h2 id="started">🚀 Getting started</h2>
 
-Here you describe how to run your project locally
-
 <h3>Prerequisites</h3>
-
-Here you list all prerequisites necessary for running your project. For example:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
 <h3>Cloning</h3>
 
-How to clone your project
-
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/fehsuzuki/pokenavigator.git
 ```
 
 <h3>Starting</h3>
