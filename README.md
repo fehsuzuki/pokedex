@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-     <a href="https://fehsuzuki.github.io/pokedex/" target="_blank">Visit this Project</a>
+     <a href="https://fehsuzuki.github.io/pokenavigator/" target="_blank">Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
