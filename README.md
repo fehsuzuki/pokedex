@@ -1,3 +1,7 @@
+# Pokedéx
+
+Application that lists all pokémon and allows you to see specific details about each one.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
