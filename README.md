@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">PokeNavigator </h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Simple description of what your project do or how to use it</b>
+    <b>Web application that lists all Pokémon and provides specific details about each one.</b>
 </p>
 
 <p align="center">
