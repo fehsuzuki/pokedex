@@ -68,7 +68,7 @@ Special thank you for all people that contributed for this project.
         <img src="https://github.com/fehsuzuki.png" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
         <sub>
           <a href="https://github.com/fehsuzuki">
-           <b>Fernando Suzuki</b>
+            <b>Fernando Suzuki</b>
           </a>
         </sub>
       </a>
