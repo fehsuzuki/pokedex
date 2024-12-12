@@ -3,7 +3,6 @@
 <p align="center">
  <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
 </p>
 
@@ -56,25 +55,6 @@ How to start your project
 cd project-name
 npm some-command-to-run
 ```
-
-<h2 id="colab">🤝 Collaborators</h2>
-
-Special thank you for all people that contributed for this project.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/fehsuzuki.png" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
-        <sub>
-          <a href="https://github.com/fehsuzuki">
-            <b>Fernando Suzuki</b>
-          </a>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <h2 id="contribute">📫 Contribute</h2>
 
