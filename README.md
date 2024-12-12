@@ -27,10 +27,7 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- list of all technologies you used
-- react
-- styled components
-- another example
+- React
 
 <h2 id="started">🚀 Getting started</h2>
 
