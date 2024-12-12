@@ -46,7 +46,7 @@ git clone https://github.com/fehsuzuki/pokenavigator.git
 
 ```bash
 cd pokenavigator
-npm install & npm run dev
+npm install && npm run dev
 ```
 
 <h2 id="contribute">📫 Contribute</h2>
