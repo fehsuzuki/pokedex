@@ -39,19 +39,19 @@
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/fehsuzuki/pokenavigator.git
+git clone https://github.com/fehsuzuki/pokedex.git
 ```
 
 <h3>Starting</h3>
 
 ```bash
-cd pokenavigator
+cd pokedex
 npm install && npm run dev
 ```
 
 <h2 id="contribute">📫 Contribute</h2>
 
-1. `git clone https://github.com/fehsuzuki/pokenavigator.git`
+1. `git clone https://github.com/fehsuzuki/pokedex.git`
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
