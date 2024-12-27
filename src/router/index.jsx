@@ -5,7 +5,7 @@ import PokemonDetails from '../pages/PokemonDetails/index.jsx';
 export default function Router() {
   const router = createBrowserRouter([
     {
-      path: '/pokenavigator', // Página inicial
+      path: '/pokedex', // Página inicial
       element: <Home />,
     },
     {
